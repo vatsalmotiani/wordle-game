@@ -15,6 +15,12 @@ A clean, ad-free Wordle clone built with Flutter. No distractions, just the game
 - **Persistent storage** - Your stats are saved locally
 - **Confetti celebration** - Win animation when you solve the puzzle
 
+## Screenshots
+<img width="603" height="1311" alt="IMG_6581" src="https://github.com/user-attachments/assets/43decd5e-6ed4-48d3-8549-c4d93981c47a" />
+<img width="603" height="1311" alt="IMG_6583" src="https://github.com/user-attachments/assets/95941617-334a-47b9-8051-30e5aa8d80aa" />
+<img width="603" height="1311" alt="IMG_6584" src="https://github.com/user-attachments/assets/26fb04f1-d305-4829-a215-5da9e0fc747b" />
+
+
 ## Getting Started
 
 ### Prerequisites
